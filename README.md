@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Vidisha</h1>
 <h3 align="center">git commit -m "Hello, I'm a Software Developer"</h3>
 
-### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnolas&label=Profile%20views&color=0e75b6&style=flat" alt="vnolas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vidisha" target="blank"><img src="https://img.shields.io/twitter/follow/vnolas?logo=twitter&style=for-the-badge" alt="vnolas" /></a> </p>
@@ -11,16 +9,11 @@
 
 - 👨‍💻 All about me is at [My Website](https://vnolas.github.io/)
 
-- 💬 Ask me about ``` var topics = [ "Java", "Spring", "Python", "CSS" ] ```
+- 💬 Ask me about ``` var topics = [ "Java", "Spring", "Python", "API" ] ```
 
 - 📫 How to reach me **vnolas22@asu.edu**
 
-- 📄 Know about my work & experiences [My Resume]()
-
-### What are my featured projects:question::rocket:
-<code>[Project 1]()</code>:hourglass:     
-<code>[Project 2]()</code>:mask:  
-<code>[Project 3]()</code>:robot:     
+- 📄 Know about my work & experiences [My Resume]()  
 
 
 ### What can I help with:question::cyclone:
@@ -28,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vnolas22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika-deb" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrikadeb7" height="30" width="40" /></a>
 </p>
