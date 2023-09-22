@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/vidisha" target="blank"><img src="https://img.shields.io/twitter/follow/vnolas?logo=twitter&style=for-the-badge" alt="vnolas" /></a> </p>
 
-### Liked my GitHub:question::point_right: [Sponsor me a Dollar]() 💰 💵 :sparkles:
 
 - 👨‍💻 All about me is at [My Website](https://vnolas.github.io/)
 
